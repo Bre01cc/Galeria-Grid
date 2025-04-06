@@ -50,8 +50,8 @@ main{
         "f1 f4 f5 f3"
         "f1 f6 f8 f10"
         "f1 f7 f8 f10";
-    gap: 10px; /* 👈 Espaço entre fotos, mais eficaz que usar margin em cada item */
-    padding: 10px;
+    gap: 1px; 
+    padding: 1px;
 }
 
 .galeria .foto {
